@@ -8,12 +8,12 @@
       "number": 1,
       "name_en": "Jin Jiang Tower",
       "name_zh": "新锦江大酒店",
-      "time": "09:00 – 09:30",
+      "time": null,
       "categories": [
         "Photo",
         "Food"
       ],
-      "description": "ทานอาหารเช้า เตรียมตัวออกเดินทาง",
+      "description": "เตรียมตัวออกเดินทาง เริ่มประมาณ 12:00 หรือช่วงบ่ายตามสะดวก",
       "address": "161 Changle Road, Huangpu District",
       "latitude": 31.22253,
       "longitude": 121.45817,
@@ -26,14 +26,15 @@
       "verification_note": "พิกัดอาคารจาก OpenStreetMap ผ่าน Mapcarta; ไม่ใช่จุดทางเข้า",
       "image": "hotel",
       "priority": false,
-      "amap_coordinate_system": "WGS-84 (explicit coordinate=wgs84; provider handles conversion)"
+      "amap_coordinate_system": "WGS-84 (explicit coordinate=wgs84; provider handles conversion)",
+      "original_time": "09:00 – 09:30"
     },
     {
       "place_id": "shanghai-2",
       "number": 2,
       "name_en": "ASICS Shanghai Flagship",
       "name_zh": null,
-      "time": "10:00 – 10:45",
+      "time": null,
       "categories": [
         "Sneakers"
       ],
@@ -47,14 +48,15 @@
       "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
       "image": "asics",
       "priority": true,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "10:00 – 10:45"
     },
     {
       "place_id": "shanghai-3",
       "number": 3,
       "name_en": "Onitsuka Tiger",
       "name_zh": null,
-      "time": "10:45 – 11:15",
+      "time": null,
       "categories": [
         "Sneakers"
       ],
@@ -70,14 +72,15 @@
       "verification_note": "ยืนยันที่อยู่ Central Plaza ได้ แต่ภาพไม่ระบุสาขาและยังไม่ยืนยันพิกัด",
       "image": "tiger",
       "priority": true,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "10:45 – 11:15"
     },
     {
       "place_id": "shanghai-4",
       "number": 4,
       "name_en": "IAPM & Huaihai Road",
       "name_zh": null,
-      "time": "11:15 – 12:00",
+      "time": null,
       "categories": [
         "Fashion",
         "Sneakers"
@@ -92,14 +95,15 @@
       "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
       "image": "iapm",
       "priority": false,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "11:15 – 12:00"
     },
     {
       "place_id": "shanghai-5",
       "number": 5,
       "name_en": "Wukang Mansion",
       "name_zh": null,
-      "time": "12:15 – 12:45",
+      "time": null,
       "categories": [
         "Photo"
       ],
@@ -117,14 +121,15 @@
       "verification_note": "แหล่งข้อมูลระบุพิกัดต่างกัน จึงไม่เลือกพิกัดโดยคาดเดา",
       "image": "street",
       "priority": false,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "12:15 – 12:45"
     },
     {
       "place_id": "shanghai-6",
       "number": 6,
       "name_en": "Wukang Road",
       "name_zh": null,
-      "time": "12:45 – 13:30",
+      "time": null,
       "categories": [
         "Photo"
       ],
@@ -138,18 +143,19 @@
       "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
       "image": "street",
       "priority": false,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "12:45 – 13:30"
     },
     {
       "place_id": "shanghai-l",
       "number": "L",
       "name_en": "Lunch Time",
       "name_zh": null,
-      "time": "13:30 – 14:15",
+      "time": null,
       "categories": [
         "Food"
       ],
-      "description": "แนะนำร้านอาหารในย่านนี้ (เสฉวน, หูหนาน, คาเฟ่, brunch)",
+      "description": "พักกินข้าวเมื่อหิว เลือกร้านในย่านที่เดินอยู่ ไม่จำเป็นต้องรอถึงจุดนี้",
       "address": null,
       "latitude": null,
       "longitude": null,
@@ -159,14 +165,15 @@
       "verification_note": "ต้นฉบับยังไม่ได้เลือกร้านอาหารหรือจุดหมายเฉพาะ",
       "image": "street",
       "priority": false,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "13:30 – 14:15"
     },
     {
       "place_id": "shanghai-7",
       "number": 7,
       "name_en": "Coffee Break",
       "name_zh": null,
-      "time": "14:15 – 15:00",
+      "time": null,
       "categories": [
         "Coffee",
         "Photo"
@@ -181,14 +188,15 @@
       "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
       "image": "coffee",
       "priority": false,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "14:15 – 15:00"
     },
     {
       "place_id": "shanghai-8",
       "number": 8,
       "name_en": "Salomon Anfu Concept Store",
       "name_zh": null,
-      "time": "15:00 – 15:45",
+      "time": null,
       "categories": [
         "Sneakers"
       ],
@@ -202,14 +210,15 @@
       "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
       "image": "salomon",
       "priority": true,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "15:00 – 15:45"
     },
     {
       "place_id": "shanghai-9",
       "number": 9,
       "name_en": "HARMAY",
       "name_zh": null,
-      "time": "15:45 – 16:20",
+      "time": null,
       "categories": [
         "Perfume"
       ],
@@ -223,14 +232,15 @@
       "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
       "image": "harmay",
       "priority": false,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "15:45 – 16:20"
     },
     {
       "place_id": "shanghai-10",
       "number": 10,
       "name_en": "MUSINSA Shanghai",
       "name_zh": null,
-      "time": "16:20 – 17:00",
+      "time": null,
       "categories": [
         "Fashion"
       ],
@@ -244,14 +254,15 @@
       "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
       "image": "musinsa",
       "priority": false,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "16:20 – 17:00"
     },
     {
       "place_id": "shanghai-11",
       "number": 11,
       "name_en": "Adidas Originals",
       "name_zh": null,
-      "time": "17:00 – 17:30",
+      "time": null,
       "categories": [
         "Sneakers",
         "Fashion"
@@ -266,14 +277,15 @@
       "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
       "image": "adidas",
       "priority": false,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "17:00 – 17:30"
     },
     {
       "place_id": "shanghai-12",
       "number": 12,
       "name_en": "norda @ Lane Crawford (Shanghai Times Square)",
       "name_zh": null,
-      "time": "18:00 – 19:00",
+      "time": null,
       "categories": [
         "Sneakers"
       ],
@@ -289,19 +301,20 @@
       "verification_note": "ยืนยันที่อยู่ Lane Crawford ได้; ยังไม่ยืนยันพิกัดและสต็อก norda",
       "image": "lane",
       "priority": true,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "18:00 – 19:00"
     },
     {
       "place_id": "shanghai-13",
       "number": 13,
       "name_en": "Dinner & Night Walk",
       "name_zh": null,
-      "time": "19:00 – 21:30",
+      "time": null,
       "categories": [
         "Food",
         "Photo"
       ],
-      "description": "ทานข้าว + เดินเล่นยามค่ำคืน เช่น ย่าน Xintiandi หรือถนน Huaihai (หรือเรียก DiDi กลับ)",
+      "description": "ถ้ายังมีแรง ค่อยแวะกินข้าวและเดินเล่นยามค่ำคืน เช่น ย่าน Xintiandi หรือถนน Huaihai หรือเรียก DiDi กลับได้ตามสะดวก",
       "address": null,
       "latitude": null,
       "longitude": null,
@@ -311,7 +324,8 @@
       "verification_note": "ต้นฉบับยังไม่ได้เลือกร้านอาหารหรือจุดหมายเฉพาะ",
       "image": "night",
       "priority": false,
-      "amap_coordinate_system": null
+      "amap_coordinate_system": null,
+      "original_time": "19:00 – 21:30"
     },
     {
       "place_id": "shanghai-le-labo",
@@ -332,15 +346,16 @@
       "verification_source": [],
       "verification_note": "ภาพประกอบและรายการ Must Buy; ไม่ระบุสาขา ที่อยู่ หรือเวลา",
       "image": "labo",
-      "priority": false
+      "priority": false,
+      "original_time": null
     }
   ],
   "notes": [
-    "ลำดับและเวลาตามภาพต้นฉบับ ไม่มีการปรับเส้นทาง",
-    "หมายเลขเป็น ID ภายใน ไม่ใช่ Google/Amap Place ID",
-    "Anfu Road เป็นบริบทของช่วงช้อปปิ้ง ไม่มีจุดแยกในต้นฉบับ",
-    "Le Labo ไม่มีเวลาแยก; Lunch ไม่เพิ่มหมายเลข",
-    "เวลา 09:30–10:00, 12:00–12:15 และ 17:30–18:00 เว้นไว้ตามภาพ",
-    "อุณหภูมิ 8–16°C และระยะเดิน 8–10 km เป็นข้อมูลในภาพ ไม่ใช่พยากรณ์หรือระยะคำนวณ"
-  ]
+    "ปรับตามคำขอ: เริ่มประมาณ 12:00 หรือช่วงบ่าย ไม่กำหนดเวลารายจุด",
+    "ลำดับเป็นเพียงคำแนะนำ เลือกแวะ ข้าม หรือพักตามสะดวก",
+    "ระยะเดินและงบประมาณจากภาพเดิม เปลี่ยนได้ตามจุดที่เลือก",
+    "เวลาต้นฉบับเก็บใน original_time เพื่ออ้างอิงเท่านั้น ไม่ใช้เป็นตารางเดินทาง"
+  ],
+  "schedule_mode": "flexible",
+  "suggested_start": "ประมาณ 12:00 หรือช่วงบ่าย"
 }
