@@ -1,0 +1,9 @@
+# Shanghai City Walk — GitHub Pages
+
+อัปโหลดไฟล์ทั้งหมดในโฟลเดอร์นี้ไปยัง repository แล้วตั้ง Settings → Pages → Deploy from a branch → main → /(root) → Save
+
+หน้าแรกคือ index.html ไม่มีขั้นตอน build และไม่ต้องติดตั้ง dependencies
+
+หากเพิ่มในเว็บเดิม ให้วางไฟล์ชุดนี้ในโฟลเดอร์ shanghai/ เพื่อให้เปิดได้ที่ /projt-outing-2026/shanghai/ โดยไม่ทับ index.html เดิม
+
+พิกัด: ปัจจุบันเปิดแผนที่ได้เฉพาะ Jin Jiang Tower จุดอื่นแสดง Unverified ตามข้อกำหนด ไม่ได้เดาพิกัด ยังไม่ได้ทดสอบการเปิดแอปบนมือถือจริง
