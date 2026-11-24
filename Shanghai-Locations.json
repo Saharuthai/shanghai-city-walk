@@ -39,13 +39,16 @@
         "Sneakers"
       ],
       "description": "ลองรองเท้า ASICS เช่น GEL-KAYANO, GEL-NYC, GT-2160 ฯลฯ",
-      "address": null,
+      "address": "356 Middle Huaihai Road, Fengsheng Shangxianfang, Huangpu District",
       "latitude": null,
       "longitude": null,
       "coordinate_system": null,
       "verification_status": "Unverified",
-      "verification_source": [],
-      "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
+      "verification_source": [
+        "https://www.shanghai.cn.emb-japan.go.jp/itpr_ja/11_000001_00825.html",
+        "https://jinrunyouju.com/work-cases/asics-shanghai-flagship-store-shangxianfang-indoor-air-treatment-2022/"
+      ],
+      "verification_note": "ยืนยันที่อยู่旗舰店ที่ Shangxianfang ได้ แต่ยังไม่มีพิกัดที่ยืนยันตรงร้าน จึงยังไม่เปิดนำทาง",
       "image": "asics",
       "priority": true,
       "amap_coordinate_system": null,
@@ -55,74 +58,114 @@
       "place_id": "shanghai-3",
       "number": 3,
       "name_en": "Onitsuka Tiger",
-      "name_zh": null,
+      "name_zh": "鬼塚虎（上海中环广场店）",
       "time": null,
       "categories": [
         "Sneakers"
       ],
       "description": "แวะดู Onitsuka Tiger รุ่นยอดนิยม เช่น Mexico 66 / Tokuten / Nippon Made",
-      "address": "Room L1-2, No 381 Middle Huaihai Road, Huangpu District",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_system": null,
-      "verification_status": "Unverified",
+      "address": "Room L1-2, 381 Middle Huaihai Road, Central Plaza",
+      "latitude": 31.2241909,
+      "longitude": 121.4682602,
+      "coordinate_system": "WGS-84",
+      "verification_status": "Verified",
       "verification_source": [
+        "https://www.amap.com/place/B0FFKTT7LM",
         "https://english.shanghai.gov.cn/cmsres/7d/7d33a794f08746d59ec7b48f4064449e/1f7bc93a6f058bcc9858bf4407f6bb8d.pdf"
       ],
-      "verification_note": "ยืนยันที่อยู่ Central Plaza ได้ แต่ภาพไม่ระบุสาขาและยังไม่ยืนยันพิกัด",
+      "verification_note": "หมุดสาขา Central Plaza ตามรายชื่อใน brief; ภาพต้นฉบับไม่ระบุสาขา · ตรวจหมุดจาก Amap; Google ใช้ WGS-84 ที่แปลงจาก GCJ-02 โดยประมาณ ไม่ใช่การสำรวจ GPS",
       "image": "tiger",
       "priority": true,
-      "amap_coordinate_system": null,
-      "original_time": "10:45 – 11:15"
+      "amap_coordinate_system": "GCJ-02",
+      "original_time": "10:45 – 11:15",
+      "gcj02": {
+        "latitude": 31.222261,
+        "longitude": 121.4728,
+        "coordinate_system": "GCJ-02"
+      },
+      "amap_place_id": "B0FFKTT7LM",
+      "coordinate_conversion": {
+        "method": "gcj2wgs_exact iterative inverse",
+        "source": "https://github.com/googollee/eviltransform",
+        "wgs84_status": "Derived; approximate; not independently surveyed"
+      },
+      "verified_on": "2026-11-24"
     },
     {
       "place_id": "shanghai-4",
       "number": 4,
       "name_en": "IAPM & Huaihai Road",
-      "name_zh": null,
+      "name_zh": "环贸iapm商场1期",
       "time": null,
       "categories": [
         "Fashion",
         "Sneakers"
       ],
       "description": "เดินช้อปที่ IAPM และร้านแฟชั่นรอบ ๆ เช่น Nike, New Balance และแบรนด์อื่น ๆ",
-      "address": null,
-      "latitude": null,
-      "longitude": null,
-      "coordinate_system": null,
-      "verification_status": "Unverified",
-      "verification_source": [],
-      "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
+      "address": "999 Middle Huaihai Road, Xuhui District",
+      "latitude": 31.2177068,
+      "longitude": 121.4539123,
+      "coordinate_system": "WGS-84",
+      "verification_status": "Verified",
+      "verification_source": [
+        "https://www.amap.com/place/B0HDHGBYBW"
+      ],
+      "verification_note": "หมุดห้าง IAPM ไม่ใช่ทุกจุดตลอด Huaihai Road · ตรวจหมุดจาก Amap; Google ใช้ WGS-84 ที่แปลงจาก GCJ-02 โดยประมาณ ไม่ใช่การสำรวจ GPS",
       "image": "iapm",
       "priority": false,
-      "amap_coordinate_system": null,
-      "original_time": "11:15 – 12:00"
+      "amap_coordinate_system": "GCJ-02",
+      "original_time": "11:15 – 12:00",
+      "gcj02": {
+        "latitude": 31.215808,
+        "longitude": 121.458493,
+        "coordinate_system": "GCJ-02"
+      },
+      "amap_place_id": "B0HDHGBYBW",
+      "coordinate_conversion": {
+        "method": "gcj2wgs_exact iterative inverse",
+        "source": "https://github.com/googollee/eviltransform",
+        "wgs84_status": "Derived; approximate; not independently surveyed"
+      },
+      "verified_on": "2026-11-24"
     },
     {
       "place_id": "shanghai-5",
       "number": 5,
       "name_en": "Wukang Mansion",
-      "name_zh": null,
+      "name_zh": "武康大楼（北门）",
       "time": null,
       "categories": [
         "Photo"
       ],
       "description": "จุดถ่ายรูปตึกคลาสสิกของเซี่ยงไฮ้ มุมยอดนิยม",
-      "address": "No 1842–1858, Middle Huaihai Road, Xuhui District",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_system": null,
-      "verification_status": "Unverified",
+      "address": "1850 Middle Huaihai Road, Wukang Mansion",
+      "latitude": 31.2064179,
+      "longitude": 121.4336162,
+      "coordinate_system": "WGS-84",
+      "verification_status": "Verified",
       "verification_source": [
+        "https://www.amap.com/place/B0JBKAKV6A",
         "https://www.meet-in-shanghai.net/en/xuhui-district/wukang-mansion-428331/",
         "https://www.wikidata.org/wiki/Q11124219",
         "https://en.wikipedia.org/wiki/Wukang_Mansion"
       ],
-      "verification_note": "แหล่งข้อมูลระบุพิกัดต่างกัน จึงไม่เลือกพิกัดโดยคาดเดา",
+      "verification_note": "หมุดด้านประตูเหนือของอาคาร; ถ่ายรูปบริเวณสาธารณะ ไม่ใช่อนุญาตเข้าที่พัก · ตรวจหมุดจาก Amap; Google ใช้ WGS-84 ที่แปลงจาก GCJ-02 โดยประมาณ ไม่ใช่การสำรวจ GPS",
       "image": "street",
       "priority": false,
-      "amap_coordinate_system": null,
-      "original_time": "12:15 – 12:45"
+      "amap_coordinate_system": "GCJ-02",
+      "original_time": "12:15 – 12:45",
+      "gcj02": {
+        "latitude": 31.204549,
+        "longitude": 121.438239,
+        "coordinate_system": "GCJ-02"
+      },
+      "amap_place_id": "B0JBKAKV6A",
+      "coordinate_conversion": {
+        "method": "gcj2wgs_exact iterative inverse",
+        "source": "https://github.com/googollee/eviltransform",
+        "wgs84_status": "Derived; approximate; not independently surveyed"
+      },
+      "verified_on": "2026-11-24"
     },
     {
       "place_id": "shanghai-6",
@@ -140,7 +183,7 @@
       "coordinate_system": null,
       "verification_status": "Unverified",
       "verification_source": [],
-      "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
+      "verification_note": "เป็นช่วงเดินถนน Wukang Road ยังไม่ได้เลือกจุดเริ่มเฉพาะ จึงไม่ใส่หมุดแทนถนนทั้งสาย",
       "image": "street",
       "priority": false,
       "amap_coordinate_system": null,
@@ -172,24 +215,39 @@
       "place_id": "shanghai-7",
       "number": 7,
       "name_en": "Coffee Break",
-      "name_zh": null,
+      "name_zh": "Arabica（武康庭）",
       "time": null,
       "categories": [
         "Coffee",
         "Photo"
       ],
       "description": "% Arabica (Ferguson Lane) พักกาแฟ มุมถ่ายรูปสวย",
-      "address": null,
-      "latitude": null,
-      "longitude": null,
-      "coordinate_system": null,
-      "verification_status": "Unverified",
-      "verification_source": [],
-      "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
+      "address": "Ferguson Lane, Wukang Road 374–376, 1/F",
+      "latitude": 31.2087647,
+      "longitude": 121.4344504,
+      "coordinate_system": "WGS-84",
+      "verification_status": "Verified",
+      "verification_source": [
+        "https://www.amap.com/place/B0FFISZVVB",
+        "https://arabicacoffee.hk/locations/locations%26loc%3Dshanghai"
+      ],
+      "verification_note": "หมุดร้าน Arabica ใน Ferguson Lane; ร้านทางการใช้เลขที่ 374 ส่วน Amap ใช้ 376 · ตรวจหมุดจาก Amap; Google ใช้ WGS-84 ที่แปลงจาก GCJ-02 โดยประมาณ ไม่ใช่การสำรวจ GPS",
       "image": "coffee",
       "priority": false,
-      "amap_coordinate_system": null,
-      "original_time": "14:15 – 15:00"
+      "amap_coordinate_system": "GCJ-02",
+      "original_time": "14:15 – 15:00",
+      "gcj02": {
+        "latitude": 31.206897,
+        "longitude": 121.439072,
+        "coordinate_system": "GCJ-02"
+      },
+      "amap_place_id": "B0FFISZVVB",
+      "coordinate_conversion": {
+        "method": "gcj2wgs_exact iterative inverse",
+        "source": "https://github.com/googollee/eviltransform",
+        "wgs84_status": "Derived; approximate; not independently surveyed"
+      },
+      "verified_on": "2026-11-24"
     },
     {
       "place_id": "shanghai-8",
@@ -201,13 +259,15 @@
         "Sneakers"
       ],
       "description": "ร้านรองเท้า Salomon (187 Anfu Road) รองเท้าแนว Outdoor / Sportstyle",
-      "address": "187 Anfu Road",
+      "address": "183, 185 & 187 Anfu Road, Xuhui District",
       "latitude": null,
       "longitude": null,
       "coordinate_system": null,
       "verification_status": "Unverified",
-      "verification_source": [],
-      "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
+      "verification_source": [
+        "https://www.prnasia.com/story/494896-1.shtml"
+      ],
+      "verification_note": "Salomon ยืนยันที่อยู่ Fu Jun 183/185/187 แต่ยังไม่มีพิกัดตรงร้านที่ยืนยันได้",
       "image": "salomon",
       "priority": true,
       "amap_coordinate_system": null,
@@ -217,92 +277,149 @@
       "place_id": "shanghai-9",
       "number": 9,
       "name_en": "HARMAY",
-      "name_zh": null,
+      "name_zh": "HARMAY话梅（上海武康路店）",
       "time": null,
       "categories": [
         "Perfume"
       ],
       "description": "ช้อปน้ำหอม Beauty และไลฟ์สไตล์",
-      "address": null,
-      "latitude": null,
-      "longitude": null,
-      "coordinate_system": null,
-      "verification_status": "Unverified",
-      "verification_source": [],
-      "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
+      "address": "55 Wukang Road, Xuhui District",
+      "latitude": 31.2150015,
+      "longitude": 121.4358316,
+      "coordinate_system": "WGS-84",
+      "verification_status": "Verified",
+      "verification_source": [
+        "https://www.amap.com/place/B0LA7RW7UD",
+        "https://www.harmay.com/en/stores"
+      ],
+      "verification_note": "สาขา Wukang Road 55 ตามเว็บไซต์ HARMAY · ตรวจหมุดจาก Amap; Google ใช้ WGS-84 ที่แปลงจาก GCJ-02 โดยประมาณ ไม่ใช่การสำรวจ GPS",
       "image": "harmay",
       "priority": false,
-      "amap_coordinate_system": null,
-      "original_time": "15:45 – 16:20"
+      "amap_coordinate_system": "GCJ-02",
+      "original_time": "15:45 – 16:20",
+      "gcj02": {
+        "latitude": 31.213135,
+        "longitude": 121.440452,
+        "coordinate_system": "GCJ-02"
+      },
+      "amap_place_id": "B0LA7RW7UD",
+      "coordinate_conversion": {
+        "method": "gcj2wgs_exact iterative inverse",
+        "source": "https://github.com/googollee/eviltransform",
+        "wgs84_status": "Derived; approximate; not independently surveyed"
+      },
+      "verified_on": "2026-11-24"
     },
     {
       "place_id": "shanghai-10",
       "number": 10,
       "name_en": "MUSINSA Shanghai",
-      "name_zh": null,
+      "name_zh": "MUSINSA",
       "time": null,
       "categories": [
         "Fashion"
       ],
       "description": "เสื้อผ้า K-Fashion แนว Unisex / Oversized",
-      "address": null,
-      "latitude": null,
-      "longitude": null,
-      "coordinate_system": null,
-      "verification_status": "Unverified",
-      "verification_source": [],
-      "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
+      "address": "201-1 Anfu Road, Xuhui District",
+      "latitude": 31.2156843,
+      "longitude": 121.4387675,
+      "coordinate_system": "WGS-84",
+      "verification_status": "Verified",
+      "verification_source": [
+        "https://www.amap.com/place/B0LKUUYVQU",
+        "https://www.musinsa.com/content/1451483417658649741"
+      ],
+      "verification_note": "สาขา Anfu Road; แบรนด์ระบุ 201 ส่วน Amap ระบุ 201-1 · ตรวจหมุดจาก Amap; Google ใช้ WGS-84 ที่แปลงจาก GCJ-02 โดยประมาณ ไม่ใช่การสำรวจ GPS",
       "image": "musinsa",
       "priority": false,
-      "amap_coordinate_system": null,
-      "original_time": "16:20 – 17:00"
+      "amap_coordinate_system": "GCJ-02",
+      "original_time": "16:20 – 17:00",
+      "gcj02": {
+        "latitude": 31.213813,
+        "longitude": 121.443383,
+        "coordinate_system": "GCJ-02"
+      },
+      "amap_place_id": "B0LKUUYVQU",
+      "coordinate_conversion": {
+        "method": "gcj2wgs_exact iterative inverse",
+        "source": "https://github.com/googollee/eviltransform",
+        "wgs84_status": "Derived; approximate; not independently surveyed"
+      },
+      "verified_on": "2026-11-24"
     },
     {
       "place_id": "shanghai-11",
       "number": 11,
       "name_en": "Adidas Originals",
-      "name_zh": null,
+      "name_zh": "阿迪达斯（上海安福路店）",
       "time": null,
       "categories": [
         "Sneakers",
         "Fashion"
       ],
       "description": "รองเท้าและเสื้อผ้า Adidas (322 Anfu Road)",
-      "address": "322 Anfu Road",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_system": null,
-      "verification_status": "Unverified",
-      "verification_source": [],
-      "verification_note": "ยังไม่ยืนยันสาขาและพิกัด",
+      "address": "322 Anfu Road, Xuhui District",
+      "latitude": 31.2151465,
+      "longitude": 121.4356676,
+      "coordinate_system": "WGS-84",
+      "verification_status": "Verified",
+      "verification_source": [
+        "https://www.amap.com/place/B0LATS1EOF"
+      ],
+      "verification_note": "สาขา Anfu Road 322 ตามต้นฉบับ · ตรวจหมุดจาก Amap; Google ใช้ WGS-84 ที่แปลงจาก GCJ-02 โดยประมาณ ไม่ใช่การสำรวจ GPS",
       "image": "adidas",
       "priority": false,
-      "amap_coordinate_system": null,
-      "original_time": "17:00 – 17:30"
+      "amap_coordinate_system": "GCJ-02",
+      "original_time": "17:00 – 17:30",
+      "gcj02": {
+        "latitude": 31.21328,
+        "longitude": 121.440288,
+        "coordinate_system": "GCJ-02"
+      },
+      "amap_place_id": "B0LATS1EOF",
+      "coordinate_conversion": {
+        "method": "gcj2wgs_exact iterative inverse",
+        "source": "https://github.com/googollee/eviltransform",
+        "wgs84_status": "Derived; approximate; not independently surveyed"
+      },
+      "verified_on": "2026-11-24"
     },
     {
       "place_id": "shanghai-12",
       "number": 12,
       "name_en": "norda @ Lane Crawford (Shanghai Times Square)",
-      "name_zh": null,
+      "name_zh": "连卡佛LaneCrawford（上海连卡佛店）",
       "time": null,
       "categories": [
         "Sneakers"
       ],
       "description": "ช้อป norda รุ่น 001A / 005 / 055 และแบรนด์อื่น ๆ",
       "address": "LEVEL 2–4, 99 Huai Hai Zhong Road, Shanghai",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_system": null,
-      "verification_status": "Unverified",
+      "latitude": 31.2263542,
+      "longitude": 121.4740729,
+      "coordinate_system": "WGS-84",
+      "verification_status": "Verified",
       "verification_source": [
+        "https://www.amap.com/place/B0FFIADGOM",
         "https://www.lanecrawford.com/stores/shanghai-times-square/010/"
       ],
-      "verification_note": "ยืนยันที่อยู่ Lane Crawford ได้; ยังไม่ยืนยันพิกัดและสต็อก norda",
+      "verification_note": "หมุด Lane Crawford ที่ Shanghai Times Square; ไม่ยืนยันสต็อก norda หรือชั้นวางสินค้า · ตรวจหมุดจาก Amap; Google ใช้ WGS-84 ที่แปลงจาก GCJ-02 โดยประมาณ ไม่ใช่การสำรวจ GPS",
       "image": "lane",
       "priority": true,
-      "amap_coordinate_system": null,
-      "original_time": "18:00 – 19:00"
+      "amap_coordinate_system": "GCJ-02",
+      "original_time": "18:00 – 19:00",
+      "gcj02": {
+        "latitude": 31.224409,
+        "longitude": 121.478595,
+        "coordinate_system": "GCJ-02"
+      },
+      "amap_place_id": "B0FFIADGOM",
+      "coordinate_conversion": {
+        "method": "gcj2wgs_exact iterative inverse",
+        "source": "https://github.com/googollee/eviltransform",
+        "wgs84_status": "Derived; approximate; not independently surveyed"
+      },
+      "verified_on": "2026-11-24"
     },
     {
       "place_id": "shanghai-13",
@@ -344,7 +461,7 @@
       "amap_coordinate_system": null,
       "verification_status": "Unverified",
       "verification_source": [],
-      "verification_note": "ภาพประกอบและรายการ Must Buy; ไม่ระบุสาขา ที่อยู่ หรือเวลา",
+      "verification_note": "ภาพต้นฉบับไม่ระบุสาขา Le Labo จึงยังไม่เลือกสาขาหรือหมุดแทนผู้เดินทาง",
       "image": "labo",
       "priority": false,
       "original_time": null
